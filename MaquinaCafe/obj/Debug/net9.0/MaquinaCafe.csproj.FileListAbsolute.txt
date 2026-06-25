@@ -1,0 +1,14 @@
+/Users/rosse/Documents/Maquina de cafe/MaquinaCafeTDD/MaquinaCafe/bin/Debug/net9.0/MaquinaCafe
+/Users/rosse/Documents/Maquina de cafe/MaquinaCafeTDD/MaquinaCafe/bin/Debug/net9.0/MaquinaCafe.deps.json
+/Users/rosse/Documents/Maquina de cafe/MaquinaCafeTDD/MaquinaCafe/bin/Debug/net9.0/MaquinaCafe.runtimeconfig.json
+/Users/rosse/Documents/Maquina de cafe/MaquinaCafeTDD/MaquinaCafe/bin/Debug/net9.0/MaquinaCafe.dll
+/Users/rosse/Documents/Maquina de cafe/MaquinaCafeTDD/MaquinaCafe/bin/Debug/net9.0/MaquinaCafe.pdb
+/Users/rosse/Documents/Maquina de cafe/MaquinaCafeTDD/MaquinaCafe/obj/Debug/net9.0/MaquinaCafe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rosse/Documents/Maquina de cafe/MaquinaCafeTDD/MaquinaCafe/obj/Debug/net9.0/MaquinaCafe.AssemblyInfoInputs.cache
+/Users/rosse/Documents/Maquina de cafe/MaquinaCafeTDD/MaquinaCafe/obj/Debug/net9.0/MaquinaCafe.AssemblyInfo.cs
+/Users/rosse/Documents/Maquina de cafe/MaquinaCafeTDD/MaquinaCafe/obj/Debug/net9.0/MaquinaCafe.csproj.CoreCompileInputs.cache
+/Users/rosse/Documents/Maquina de cafe/MaquinaCafeTDD/MaquinaCafe/obj/Debug/net9.0/MaquinaCafe.dll
+/Users/rosse/Documents/Maquina de cafe/MaquinaCafeTDD/MaquinaCafe/obj/Debug/net9.0/refint/MaquinaCafe.dll
+/Users/rosse/Documents/Maquina de cafe/MaquinaCafeTDD/MaquinaCafe/obj/Debug/net9.0/MaquinaCafe.pdb
+/Users/rosse/Documents/Maquina de cafe/MaquinaCafeTDD/MaquinaCafe/obj/Debug/net9.0/MaquinaCafe.genruntimeconfig.cache
+/Users/rosse/Documents/Maquina de cafe/MaquinaCafeTDD/MaquinaCafe/obj/Debug/net9.0/ref/MaquinaCafe.dll
